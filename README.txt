@@ -1,2 +1,2 @@
 README 
-Iniciando curso de Git (GIT REAL)
+Starting Git course. CodeSchool - Git Real 
